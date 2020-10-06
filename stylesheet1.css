@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+
+pageTitle {color: #F7F9F9 ; font-style: italic; background-color: #4FC3F7 ; display:block; text-align: center; font-size: 38px; padding: 10px }
+artist {color : #1B2631 ; font-family:garamond; display:block; text-align: center; font-size: 27px; font-weight: bold; padding: 5px} 
+title {display:block; font-size: 24px; font-style: italic;}
+genre {display:block; font-size: 20px; font-style: normal;}
+year {display:block; border-bottom: 4px solid #5DADE2; padding: 5px 0; font-size: 21px}
+

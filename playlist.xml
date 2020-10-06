@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "stylesheet1.css" ?>
+<Music>
+	<pageTitle>Setlist</pageTitle>
+	<artist>
+		<name>Ariana Grande</name>
+		<title>NASA</title>
+		<genre>Dance-pop, Contemporary RB</genre>
+		<year>2019</year>
+	</artist>
+	<artist>
+		<name>Lizzo</name>
+		<title>Truth Hurts</title>
+		<genre>Pop</genre>
+		<year>2019</year>
+	</artist>
+	<artist>
+		<name>Lewis Capaldi</name>
+		<title>Someone You Loved</title>
+		<genre>Alternative/Indie</genre>
+		<year>2019</year>
+	</artist>
+	<artist>
+		<name>Tones And I</name>
+		<title>Dance Monkey</title>
+		<genre>Alternative/Indie</genre>
+		<year>2019</year>
+	</artist>
+	<artist>
+		<name>Lil Nas X</name>
+		<title>Old Town Road</title>
+		<genre>Pop, Country Rap</genre>
+		<year>2019</year>
+	</artist>
+	<artist>
+		<name>Doja Cat</name>
+		<title>Say So</title>
+		<genre>RB/Soul</genre>
+		<year>2019</year>
+	</artist>
+	<artist>
+		<name>John Lennon</name>
+		<title>Imagine</title>
+		<genre>Rock</genre>
+		<year>1971</year>
+	</artist>
+	<artist>
+		<name>Marshmello</name>
+		<title>Happier</title>
+		<genre>Dance/Electric</genre>
+		<year>2018</year>
+	</artist>
+	<artist>
+		<name>Foster the People</name>
+		<title>Don't Stop (Color on the Walls)</title>
+		<genre>Alternative/Indie</genre>
+		<year>2011</year>
+	</artist>
+	<artist>
+		<name>Saint Jhn</name>
+		<title>Roses</title>
+		<genre>Dance/Electronic</genre>
+		<year>2018</year>
+	</artist>
+</Music>
